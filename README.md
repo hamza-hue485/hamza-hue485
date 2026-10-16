@@ -121,16 +121,9 @@
 
 ### 📊 GitHub Stats & Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hamza-hue485&show_icons=true&theme=dark&hide_border=true" alt="Hamza's GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamza-hue485&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hamza-hue485&show_icons=true&theme=radial&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hamza-hue485&theme=radial&hide_border=true" width="48%" />
-</p>
----
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hamza-hue485&show_icons=true&theme=dark&hide_border=true) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hamza-hue485&layout=compact&theme=dark&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hamza-hue485&theme=dark&hide_border=true)
 
 ### 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/)
